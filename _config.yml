@@ -10,7 +10,8 @@ relative_permalinks: true
 title:            Gianluca Della Vedova
 tagline:          ''
 description:      ''
-url:              https://gianluca.dellavedova.org
+#url:              https://gianluca.dellavedova.org
+url:              http://gdv.github.io
 baseurl:          /
 
 author:
