@@ -1,5 +1,5 @@
 ---
-  layout: page
+  layout: default
   title: Laboratorio Informatico Virtuale (LIV)
 ---
 
