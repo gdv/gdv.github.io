@@ -1,15 +1,45 @@
 <!DOCTYPE html>
 <html lang="en-us">
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+  <title>{{ page.title }} &middot; {{ site.title }}</title>
 
-  {% include head.html %}
+  <!-- CSS -->
+  <link rel="stylesheet" href="{{ site.baseurl }}public/css/poole.css">
+  <!-- Icons -->
+  <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico">
+  </head>
 
-      <body class="theme-base-0d">
+  <body>
 
-    {% include sidebar.html %}
+    <div class="sidebar">
+      <div class="container">
+	<div class="sidebar-about">
+          <h1>
+            <a href="{{ site.baseurl }}">{{ site.title }}</a>
+	  </h1>
+	</div>
 
-    <div class="content container">
-      {{ content }}
+	<nav class="sidebar-nav">
+	  <a class="sidebar-nav-item" href="/">Home</a>
+	  <a class="sidebar-nav-item" href="/didattica">Didattica</a>
+	  <a class="sidebar-nav-item" href="/software">Software</a>
+	  <a class="sidebar-nav-item" href="/credits">Credits</a>
+	  <a class="sidebar-nav-item" href="https://gianlucadellavedova.wordpress.com">Blog</a>
+	</nav>
+
+    <p>&copy; 2001-{{ site.time | date: '%Y' }}. Gianluca Della Vedova.
+    <p><a href="http://creativecommons.org/licenses/by-sa/3.0/it/">Questa
+      opera è distribuita con licenza
+      Creative Commons Attribuzione - Condividi allo stesso modo 3.0
+	Italia (CC-SA)</a>.</p>
+      </div>
     </div>
 
+    <div class="content container">{{ content }}</div>
   </body>
 </html>
