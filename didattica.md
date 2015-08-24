@@ -14,7 +14,7 @@
 Il ricevimento studenti è su appuntamento.
 
 
-[Dipartimento di Informatica, Sistemistica  
+[Dipartimento di Informatica, Sistemistica
 e Comunicazione (DISCo)](http://www.disco.unimib.it).  
 [Università degli Studi di Milano-Bicocca](http://www.unimib.it)  
 
