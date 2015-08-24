@@ -19,8 +19,8 @@ e Comunicazione (DISCo)](http://www.disco.unimib.it).
 [Università degli Studi di Milano-Bicocca](http://www.unimib.it)  
 
 Edificio U14, viale Sarca 336
-[mappa](https://www.openstreetmap.org/note/236583)  
-20126 -- Milano  
+[(mappa)](https://www.openstreetmap.org/note/236583)  
+20126 - Milano  
 Stanza: U14-2041 (secondo piano)
 
 
