@@ -5,9 +5,10 @@
 
 ##Corsi
 
-*  Basi di Dati
-*  Bioinformatica M
-*  Elementi di Bioinformatica
+*  [Basi di Dati](http://elearning.unimib.it/course/view.php?id=4698)
+*  [Bioinformatica M](http://elearning.unimib.it/course/view.php?id=6124)
+*  [Elementi di
+   Bioinformatica](http://elearning.unimib.it/course/view.php?id=7463)
 
 ##Ricevimento studenti
 
