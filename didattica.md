@@ -9,7 +9,7 @@
 *  [Bioinformatica M](http://elearning.unimib.it/course/view.php?id=6124)
 *  [Elementi di
    Bioinformatica](http://elearning.unimib.it/course/view.php?id=7463)
-*  [Advanced Techniques for Combinatorial Algorithms](https://advancedalgorithms.wordpress.com/)
+*  [Advanced Techniques for Combinatorial Algorithms](http://algolab.eu/2016/02/05/advanced-techniques-for-combinatorial-algorithms/)
 
 ## Ricevimento studenti
 
