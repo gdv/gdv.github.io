@@ -17,7 +17,7 @@ I have worked on (and I am still loosely interested in) some problems
 related to the modular decomposition of graphs and hypergraphs, as
 well as the modeling of data bases by graphs.
 
-##Research
+## Research
 
 I have made available a preprint of my recent papers at
 [ArXiv](http://arxiv.org/a/dellavedova_g_1), and I plan to do so for
@@ -38,7 +38,7 @@ My ORCID is
 
 My research group can be found at [AlgoLab](http://www.algolab.eu).
 
-##Contact
+## Contact
 
 [Dipartimento di Informatica, Sistemistica e Comunicazione (DISCo)](http://www.disco.unimib.it).  
 [Università degli Studi di Milano-Bicocca](http://www.unimib.it).  

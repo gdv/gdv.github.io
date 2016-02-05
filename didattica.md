@@ -3,7 +3,7 @@
   title: Didattica
 ---
 
-##Corsi
+## Corsi
 
 *  [Basi di Dati](http://elearning.unimib.it/course/view.php?id=4698)
 *  [Bioinformatica M](http://elearning.unimib.it/course/view.php?id=6124)
@@ -11,7 +11,7 @@
    Bioinformatica](http://elearning.unimib.it/course/view.php?id=7463)
 *  [Advanced Techniques for Combinatorial Algorithms](https://advancedalgorithms.wordpress.com/)
 
-##Ricevimento studenti
+## Ricevimento studenti
 
 Il ricevimento studenti è su appuntamento.
 
@@ -30,7 +30,7 @@ email:
 [gianluca.dellavedova@unimib.it](mailto://gianluca.dellavedova@unimib.it)  
 Non gradisco ricevere allegati [Word, Excel o PowerPoint](http://www.fsf.org/philosophy/no-word-attachments.html).
 
-##Tesi e Stage
+## Tesi e Stage
 
 Le proposte attualmente disponibili sono nella sezione dedicata di
 [AlgoLab](http://algolab.eu/category/stage/).
