@@ -71,3 +71,5 @@ No [Word, Excel or Powerpoint attachments](http://www.fsf.org/philosophy/no-word
 I am in the Program Committee of [Cie 2013](http://cie2013.disco.unimib.it/).
 
 I am in the Organizing Commitee of [SAS Campus 2011](http://www.sas.com/offices/europe/italy/eventi/112211/index.html)
+
+I am in the Editorial Board of [Advances in Bioinformatics](http://www.hindawi.com/journals/abi/)
