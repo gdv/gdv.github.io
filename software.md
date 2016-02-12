@@ -3,7 +3,7 @@ layout: default
 title: Software
 ---
 
-##Highlights
+## Highlights
 
 [cppp](https://github.com/AlgoLab/cppp): a program to compute the
 Constrained Persistent Phylogeny
@@ -16,6 +16,6 @@ sequences (ESTs and mRNAs) against a genomic sequence.
 program to compute the approximate Longest Commons Subsequence of a
 set of strings.
 
-##Miscellanea
+## Miscellanea
 
-All my software is hosted at [GitHub](https://github.com/gdv)
+All my software is hosted at [GitHub](https://github.com/gdv) or at [GitLab](https://gitlab.com/u/dellavg)
