@@ -10,8 +10,7 @@
 *  [Bioinformatica](http://elearning.unimib.it/course/view.php?id=7673) (CdLM Biostatistica)
 *  [Elementi di
    Bioinformatica](http://elearning.unimib.it/course/view.php?id=7463) (CdL Informatica)
-*
-   [Advanced Techniques for Combinatorial Algorithms](http://algolab.eu/2016/02/05/advanced-techniques-for-combinatorial-algorithms/)
+*  [Advanced Techniques for Combinatorial Algorithms](http://algolab.eu/2016/02/05/advanced-techniques-for-combinatorial-algorithms/)
    (PhD Informatica)
 
 ## Ricevimento studenti
