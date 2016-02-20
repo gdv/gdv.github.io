@@ -5,11 +5,14 @@
 
 ## Corsi
 
-*  [Basi di Dati](http://elearning.unimib.it/course/view.php?id=4698)
-*  [Bioinformatica M](http://elearning.unimib.it/course/view.php?id=6124)
+*  [Basi di Dati](http://elearning.unimib.it/course/view.php?id=4698) (CdL Statistica e
+   Gestione delle Informazioni)
+*  [Bioinformatica](http://elearning.unimib.it/course/view.php?id=7673) (CdLM Biostatistica)
 *  [Elementi di
-   Bioinformatica](http://elearning.unimib.it/course/view.php?id=7463)
-*  [Advanced Techniques for Combinatorial Algorithms](http://algolab.eu/2016/02/05/advanced-techniques-for-combinatorial-algorithms/)
+   Bioinformatica](http://elearning.unimib.it/course/view.php?id=7463) (CdL Informatica)
+*
+   [Advanced Techniques for Combinatorial Algorithms](http://algolab.eu/2016/02/05/advanced-techniques-for-combinatorial-algorithms/)
+   (PhD Informatica)
 
 ## Ricevimento studenti
 
