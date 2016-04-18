@@ -5,7 +5,7 @@
 
 ## Corsi
 
-*  [Basi di Dati](http://elearning.unimib.it/course/view.php?id=4698) (CdL Statistica e
+*  [Basi di Dati](http://elearning.unimib.it/course/view.php?id=8288) (CdL Statistica e
    Gestione delle Informazioni)
 *  [Bioinformatica](http://elearning.unimib.it/course/view.php?id=7673) (CdLM Biostatistica)
 *  [Elementi di
