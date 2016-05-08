@@ -2,9 +2,9 @@
   layout: default
   title: Laboratorio Informatico Virtuale (LIV)
 ---
-#Laboratorio Informatico Virtuale (LIV)
+# Laboratorio Informatico Virtuale (LIV)
 
-####Per essere abilitati all’accesso
+#### Per essere abilitati all’accesso
 
 Per richiedere l’accesso al LIV è sufficiente compilare la seguente
 [form](https://docs.google.com/spreadsheet/viewform?formkey=dFdjVWV4TElIdE9ZOWNZUFFuemt5bXc6MQ).
@@ -17,7 +17,7 @@ Non viene data conferma dell’avvenuta abilitazione. Quindi siete
 invitati a verificare se riuscite a collegarvi: inviatemi una mail in
 caso di problemi.
 
-####Forum
+#### Forum
 
 Seguendo il link
 [https://groups.google.com/forum/?fromgroups#!forum/laboratorio-informatico-virtuale](https://groups.google.com/forum/?fromgroups#!forum/laboratorio-informatico-virtuale)
@@ -28,7 +28,7 @@ forum.
 Siete fortemente invitati ad utilizzare il forum per ogni domanda o problema relativa al LIV.
 
 
-####Istruzioni per accedere al LIV
+#### Istruzioni per accedere al LIV
 
 Per accedere al laboratorio virtuale è necessaria una connessione a
 Internet. I passi da seguire sono due: prima è necessario creare una
@@ -64,7 +64,7 @@ nell’apposito campo (LIB). **Attenzione: non inviare anche la password**
 *    provider internet utilizzato
 *    marca e modello del modem/router utilizzato
 
-#####Domande più frequenti
+##### Domande più frequenti
 
 *    Cosa fare se sparisce la barra applicazioni di Windows?
 
