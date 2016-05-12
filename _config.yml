@@ -8,3 +8,6 @@ description:      ''
 url:              https://gianluca.dellavedova.org
 baseurl:          /
 
+gems:
+  - jekyll-seo-tag
+
