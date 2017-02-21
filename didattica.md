@@ -7,7 +7,7 @@
 
 *  [Basi di Dati](http://elearning.unimib.it/course/view.php?id=11737) (CdL Statistica e
    Gestione delle Informazioni)
-*  [Bioinformatica](http://elearning.unimib.it/course/view.php?id=7673) (CdLM Biostatistica)
+*  [Bioinformatica](http://elearning.unimib.it/course/view.php?id=11161) (CdLM Biostatistica)
 *  [Elementi di
    Bioinformatica](http://elearning.unimib.it/course/view.php?id=10949) (CdL Informatica)
 *  [Advanced Techniques for Combinatorial Algorithms](http://algolab.eu/2016/02/05/advanced-techniques-for-combinatorial-algorithms/)
