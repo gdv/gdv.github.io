@@ -21,8 +21,9 @@ Or: What I like and support
     cornerstone of science. Without software, twenty-first century science
     would be impossible. Without better software, science cannot progress. But the culture and institutions of science have not yet adjusted to this reality.
 *   I am an [Electronic Frontier Foundation](https://www.eff.org) Member.
+*   [Open Bioinformatics Foundation](http://www.open-bio.org/)
 *   No to [online censorship](https://www.eff.org/pages/say-no-to-online-censorship)
 *   [Internet Defense League](http://internetdefenseleague.org)
-*   [ownCloud](https://owncloud.org/)
+*   [NextCloud](https://nextcloud.com/)
 *   [Hyde](http://drjekyllthemes.github.io/jekyll-minimal-theme)
     Jekyll theme
