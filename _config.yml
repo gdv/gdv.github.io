@@ -6,7 +6,7 @@ title:            Gianluca Della Vedova
 tagline:          ''
 description:      ''
 url:              https://gianluca.dellavedova.org
-baseurl:          /
+baseurl:          "/"
 
 gems:
   - jekyll-seo-tag
