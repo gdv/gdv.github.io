@@ -5,9 +5,10 @@ permalink:        pretty
 title:            Gianluca Della Vedova
 tagline:          ''
 description:      ''
-url:              https://gianluca.dellavedova.org
+url:              https://gdv.github.io
+#url:              https://gianluca.dellavedova.org
 baseurl:          "/"
-
+remote_theme: "mmistakes/minimal-mistakes@4.19.1"
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
   # Use GitHub flavored markdown, including triple backtick fenced code blocks
@@ -20,4 +21,4 @@ kramdown:
 
 plugins:
   - jekyll-seo-tag
-
+  - jekyll-include-cache
