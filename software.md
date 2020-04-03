@@ -16,6 +16,12 @@ sequences (ESTs and mRNAs) against a genomic sequence.
 program to compute the approximate Longest Commons Subsequence of a
 set of strings.
 
+[SASC](https://github.com/sciccolella/sasc/): a fast and precise tool for cancer
+progression inference from single-cell data.
+
+[ASGAL](https://asgal.algolab.eu/): a tool to discover new alternative splicing events
+
+
 ## Miscellanea
 
 All my software is hosted at [GitHub](https://github.com/gdv) or at [GitLab](https://gitlab.com/u/dellavg)

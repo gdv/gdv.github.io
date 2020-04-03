@@ -3,7 +3,7 @@ layout: default
 title: Credits
 ---
 
-Or: What I like and support
+###  Or: What I like and support
 
 *   [FSFE](http://fsfe.org/donate/): Free Software Foundation Europe.
 *   [PlayOgg](http://playogg.org): Don't use DRM files
@@ -27,3 +27,4 @@ Or: What I like and support
 *   [NextCloud](https://nextcloud.com/)
 *   [Hyde](http://drjekyllthemes.github.io/jekyll-minimal-theme)
     Jekyll theme
+*   [Privacy tools](https://www.privacytools.io/)

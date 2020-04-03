@@ -10,6 +10,8 @@
 *  [Bioinformatica](http://elearning.unimib.it/course/view.php?id=11161) (CdLM Biostatistica)
 *  [Elementi di
    Bioinformatica](http://elearning.unimib.it/course/view.php?id=10949) (CdL Informatica)
+*  [Foundations of computer science](CdLM Data Science)
+*  [Laboratorio di Informatica](CdL Statistica e Gestione delle Informazioni, CdL Scienze Statistiche e Economiche)
 *  [Advanced Techniques for Combinatorial Algorithms](http://algolab.eu/2016/02/05/advanced-techniques-for-combinatorial-algorithms/)
    (PhD Informatica)
 
@@ -34,14 +36,9 @@ Non gradisco ricevere allegati [Word, Excel o PowerPoint](http://www.fsf.org/phi
 
 ## Tesi e Stage
 
-Le proposte attualmente disponibili sono nella sezione dedicata di
-[AlgoLab](http://algolab.eu/category/stage/).
+Le proposte attualmente disponibili sono nella sezione dedicata del
+[Laboratorio di Bioinformatica e Algoritmica Sperimentale](http://algolab.eu/category/stage/).
 
 Sono sempre attivamente interessato a nuove proposte nell'ambito
 dell'Open Source, specialmente per scopi scientifici. In questo caso è
 meglio mandarmi una breve proposta per email.
-
-
-## Laboratorio Informatico Virtuale (LIV)
-
-Andare alla [pagina](/liv) dedicata.
