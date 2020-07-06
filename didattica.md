@@ -1,23 +1,16 @@
 ---
-  layout: default
+  layout: page
   title: Didattica
 ---
 
 ## Corsi
 
-*  [Basi di Dati](http://elearning.unimib.it/course/view.php?id=11737) (CdL Statistica e
-   Gestione delle Informazioni)
-*  [Bioinformatica](http://elearning.unimib.it/course/view.php?id=11161) (CdLM Biostatistica)
-*  [Elementi di
-   Bioinformatica](http://elearning.unimib.it/course/view.php?id=10949) (CdL Informatica)
-*  [Foundations of computer science](CdLM Data Science)
-*  [Laboratorio di Informatica](CdL Statistica e Gestione delle Informazioni, CdL Scienze Statistiche e Economiche)
-*  [Advanced Techniques for Combinatorial Algorithms](http://algolab.eu/2016/02/05/advanced-techniques-for-combinatorial-algorithms/)
-   (PhD Informatica)
+L'[elenco dei corsi](https://www.unimib.it/gianluca-della-vedova) è gestito dall'Ateneo.
+
 
 ## Ricevimento studenti
 
-Il ricevimento studenti è su appuntamento.
+Il ricevimento studenti è su appuntamento (per email)
 
 
 [Dipartimento di Informatica, Sistemistica
@@ -27,7 +20,7 @@ e Comunicazione (DISCo)](http://www.disco.unimib.it).
 Edificio U14, viale Sarca 336
 [(mappa)](https://www.openstreetmap.org/note/236583)  
 20126 - Milano  
-Stanza: U14-2041 (secondo piano)
+Stanza: U14-2041 (secondo piano, corridoio a sinistra)
 
 
 email:
