@@ -4,6 +4,13 @@ author:
   name: Gianluca Della Vedova
   email: gianluca@dellavedova.org
 
+# Top menu
+header_pages:
+  - index.md
+  - [didattica](https://www.unimib.it/gianluca-della-vedova)
+  - software.md
+  - credits.md
+
 minima:
   social_links:
     twitter: giandellavedova
