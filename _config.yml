@@ -8,6 +8,7 @@ header_pages:
   - didattica.md
   - software.md
   - credits.md
+  - blog.md
 
 
 minima:
