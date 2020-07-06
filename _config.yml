@@ -30,7 +30,3 @@ minima:
     mastodon:
      - username: jekyll
        instance: example.com
-
-plugins:
- - jekyll-feed
- - jekyll-seo-tag
