@@ -17,7 +17,7 @@ theme: minima
 
 author:
   name: Gianluca Della Vedova
-  email: "gianluca@dellavedova.org"
+  email: gianluca@dellavedova.org
 
 minima:
   social_links:
@@ -30,3 +30,7 @@ minima:
     mastodon:
      - username: jekyll
        instance: example.com
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
