@@ -1,10 +1,15 @@
-name: Gianluca Della Vedova
+title: Gianluca Della Vedova
 
 theme: minima
 
-author:
-  name: Gianluca Della Vedova
+#author:
+#  name: Gianluca Della Vedova
 #  email: gianluca@dellavedova.org
+
+#title: Your awesome title
+author:
+  name: GitHub User
+  email: your-email@domain.com
 
 # Top menu
 header_pages:
