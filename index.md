@@ -53,7 +53,12 @@ I have served in the Program Committee of
 [SPIRE 2017](http://pages.di.unipi.it/spire2017/), 
 [CPM 2019](http://cpm2019.di.unipi.it/),
 [CiE 2019](https://community.dur.ac.uk/cie.2019/),
-[CiE 2020](https://cie2020.wordpress.com/)
+[CiE 2020](https://cie2020.wordpress.com/),
+[WABI 2020](http://algo2020.di.unipi.it/WABI2020/).
+
+I have served in the Review Committee of several
+[BOSC](https://www.open-bio.org/events/bosc/) (Bioinformatics Open Source
+Conference) editions.
 
 
 I have been in the Editorial Board of [Advances in Bioinformatics](http://www.hindawi.com/journals/abi/)

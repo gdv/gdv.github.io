@@ -4,7 +4,7 @@ theme: minima
 
 author:
   name: Gianluca Della Vedova
-  email: gianluca@dellavedova.org
+#  email: gianluca@dellavedova.org
 
 # Top menu
 header_pages:
