@@ -9,6 +9,6 @@ author:
 # Top menu
 header_pages:
   - index.md
-#  - [didattica](https://www.unimib.it/gianluca-della-vedova)
+  - [didattica](https://www.unimib.it/gianluca-della-vedova)
   - software.md
   - credits.md
