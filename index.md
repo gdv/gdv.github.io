@@ -41,7 +41,7 @@ Edificio U14, viale Sarca 336
 20126 – Milano (Italy)  
 email: gianluca.dellavedova@unimib.it  
 
-[GPG public key](http://keyserver.linux.it/pks/lookup?op=get&amp;fingerprint=on&amp;search=0xED2ABF3955C675F0),
+[GPG public key](http://keys.gnupg.net/pks/lookup?op=get&search=0xED2ABF3955C675F0),
 Fingerprint `83C8 4960 D3CB DA11 8369 802B ED2A BF39 55C6 75F0`
 
 
