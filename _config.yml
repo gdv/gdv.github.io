@@ -6,20 +6,8 @@ author:
   name: Gianluca Della Vedova
   email: gianluca@dellavedova.org
 
-minima:
-  social_links:
-    twitter: giandellavedova
-    github: gdv
-    stackoverflow: "11111"
-    telegram: jekyll
-    keybase: jekyll
-
-    mastodon:
-     - username: jekyll
-       instance: example.com
-
 # Top menu
-#header_pages:
+header_pages:
   - index.md
 #  - [didattica](https://www.unimib.it/gianluca-della-vedova)
 #  - software.md
