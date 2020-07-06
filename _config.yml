@@ -1,3 +1,5 @@
+name: Gianluca Della Vedova
+
 theme: minima
 
 author:
@@ -17,8 +19,8 @@ minima:
        instance: example.com
 
 # Top menu
-  header_pages:
-    - index.md
-    - [didattica](https://www.unimib.it/gianluca-della-vedova)
-    - software.md
-    - credits.md
+header_pages:
+  - index.md
+  - [didattica](https://www.unimib.it/gianluca-della-vedova)
+  - software.md
+  - credits.md
