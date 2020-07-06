@@ -24,4 +24,4 @@ progression inference from single-cell data.
 
 ## Miscellanea
 
-All my software is hosted at [GitHub](https://github.com/gdv) or at [GitLab](https://gitlab.com/u/dellavg)
+All my software is hosted at [GitHub](https://github.com/gdv).

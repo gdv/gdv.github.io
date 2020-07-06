@@ -1,5 +1,5 @@
 ---
-layout: page   
+layout: page
 title: Credits
 ---
 
@@ -25,6 +25,4 @@ title: Credits
 *   No to [online censorship](https://www.eff.org/pages/say-no-to-online-censorship)
 *   [Internet Defense League](http://internetdefenseleague.org)
 *   [NextCloud](https://nextcloud.com/)
-*   [Hyde](http://drjekyllthemes.github.io/jekyll-minimal-theme)
-    Jekyll theme
 *   [Privacy tools](https://www.privacytools.io/)

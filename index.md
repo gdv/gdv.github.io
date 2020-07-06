@@ -16,10 +16,10 @@ group on Bionformatics and Experimental Algorithmics.
 ## Research
 
 I have made available a preprint of my recent papers at
-[ArXiv](http://arxiv.org/a/dellavedova_g_1), and I plan to do so for
+[ArXiv](http://arxiv.org/a/dellavedova_g_1) or [BioRxiv](https://www.biorxiv.org/search/author1%3AGianluca%2BDella%2BVedova), and I plan to do so for
 the foreseeable future.
 
-Almost all my papers are indexed at the wonderful
+You can find almost all my papers at the wonderful
 [DBLP](http://dblp.org/pers/hc/v/Vedova:Gianluca_Della.html).
 
 A list of my publications is also at
@@ -31,6 +31,25 @@ and at
 
 My ORCID is
 [0000-0001-5584-3089](http://orcid.org/0000-0001-5584-3089)
+
+## Services
+
+
+I have served in the Program Committee of 
+[CiE 2013](http://cie2013.disco.unimib.it/), 
+[SPIRE 2017](http://pages.di.unipi.it/spire2017/), 
+[CPM 2019](http://cpm2019.di.unipi.it/),
+[CiE 2019](https://community.dur.ac.uk/cie.2019/),
+[CiE 2020](https://cie2020.wordpress.com/),
+[WABI 2020](http://algo2020.di.unipi.it/WABI2020/).
+
+I have served in the Review Committee of several
+[BOSC](https://www.open-bio.org/events/bosc/) (Bioinformatics Open Source
+Conference) editions.
+
+
+I have been in the Editorial Board of [Advances in Bioinformatics](http://www.hindawi.com/journals/abi/)
+
 
 ## Contact
 
@@ -44,21 +63,3 @@ email: gianluca.dellavedova@unimib.it
 [GPG public key](http://keys.gnupg.net/pks/lookup?op=get&search=0xED2ABF3955C675F0),
 Fingerprint `83C8 4960 D3CB DA11 8369 802B ED2A BF39 55C6 75F0`
 
-
-## Services
-
-
-I have served in the Program Committee of 
-[Cie 2013](http://cie2013.disco.unimib.it/), 
-[SPIRE 2017](http://pages.di.unipi.it/spire2017/), 
-[CPM 2019](http://cpm2019.di.unipi.it/),
-[CiE 2019](https://community.dur.ac.uk/cie.2019/),
-[CiE 2020](https://cie2020.wordpress.com/),
-[WABI 2020](http://algo2020.di.unipi.it/WABI2020/).
-
-I have served in the Review Committee of several
-[BOSC](https://www.open-bio.org/events/bosc/) (Bioinformatics Open Source
-Conference) editions.
-
-
-I have been in the Editorial Board of [Advances in Bioinformatics](http://www.hindawi.com/journals/abi/)
