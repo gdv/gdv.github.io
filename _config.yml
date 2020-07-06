@@ -19,8 +19,8 @@ minima:
        instance: example.com
 
 # Top menu
-header_pages:
+#header_pages:
   - index.md
-  - [didattica](https://www.unimib.it/gianluca-della-vedova)
-  - software.md
-  - credits.md
+#  - [didattica](https://www.unimib.it/gianluca-della-vedova)
+#  - software.md
+#  - credits.md
