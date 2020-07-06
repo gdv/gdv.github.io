@@ -10,5 +10,5 @@ author:
 header_pages:
   - index.md
 #  - [didattica](https://www.unimib.it/gianluca-della-vedova)
-#  - software.md
-#  - credits.md
+  - software.md
+  - credits.md
